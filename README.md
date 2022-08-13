@@ -148,12 +148,12 @@ git commit
 ### 9. Subir como evidencia el repositorio en el GitHub proporcionado.
 
 Se generara un repositorio para la entrega de esta actividad
-[Repositorio GitHub Classroom](https://classroom.github.com/a/q-NteS-8). 
+[Repositorio GitHub Classroom](https://classroom.github.com/a/pEFJ147b). 
 
 Siga las instrucciones:
 
 ```
-git remote add origin https://github.com/[tu-usuario]/mi-primer-repositorio.git
+git remote add origin https://github.com/ITIC-ITESME/mi-primer-repositorio-[tu-usuario].git
 git branch -M main
 git push -u origin main
 ```

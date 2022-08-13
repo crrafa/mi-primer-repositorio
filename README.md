@@ -148,7 +148,7 @@ git commit
 ### 9. Subir como evidencia el repositorio en el GitHub proporcionado.
 
 Se generara un repositorio para la entrega de esta actividad
-[Repositorio GitHub Classroom](https://classroom.github.com/a/-FE2L9Br). 
+[Repositorio GitHub Classroom](https://classroom.github.com/a/q-NteS-8). 
 
 Siga las instrucciones:
 

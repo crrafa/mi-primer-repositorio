@@ -13,7 +13,7 @@ Desarrollar la siguiente practica, recuerda que deberas presentar evidencias del
 ### 1. Comprobar version de Git.
 
 
-```C#
+```
 git version
 ```
 
@@ -31,7 +31,7 @@ Nuevo directorio de trabajo para el desarrollo de la presente practica.
 Ingresar el comando `git init` para crear un nuevo repositorio de Git. Git ahora es consciente de los archivos en el proyecto. 
 
 
-```C#
+```
 git init
 ```
 
@@ -45,7 +45,7 @@ git init
 Crear un archivo de texto llamado README.md
 
 
-```C#
+```
 code README.md
 ```
 
@@ -62,7 +62,7 @@ Ingresar `git status` para comprobar el estado.
 Este comando muestra el estado del working tree. También muestra los cambios que se han preparado para commit(staged), los cambios que no se han preparado (no staged) y los archivos que Git no realiza un seguimiento.
 
 
-```C#
+```
 git status
 ```
 
@@ -92,7 +92,7 @@ git status
 Ingresar `git add [archivo]`. El archivo se agregara al área de preparación (staging area).
 
 
-```C#
+```
 git add README.md
 ```
 
@@ -102,7 +102,7 @@ git add README.md
 Ingresar `git status`, muestra el estado del working tree. Aparecera README.md en verde, el archivo ahora está en el área de preparación (staging area) y aún no se ha confirmado.
 
 
-```C#
+```
 git status
 ```
 
@@ -131,7 +131,7 @@ Ingresar `git commit`, se abrira el editor de condigo default, escribe el mensaj
 Ahora confirmamos (commit) los cambios, el equivalente a "Guardar" en Git. 
 
 
-```C#
+```
 git commit
 ```
 
